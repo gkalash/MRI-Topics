@@ -6,7 +6,7 @@ This repo is a collection of introductory books, courses and videos for anyone s
 Table of Contents
 </h2>
 
--[Books](#books)
+- [Books](#books)
 
 # Books
 - Functional magnetic resonance imaging: An introduction to methods
