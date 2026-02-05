@@ -1,6 +1,6 @@
 # MRI-Topics
 
-This repo is a collection of intorductory books, courses and videos for anyone starting to work with **Magnetic Resonnance Imaging**. 
+This repo is a collection of introductory books, courses and videos for anyone starting to work with **Magnetic Resonnance Imaging**. 
 
 <h2>
 Table of Contents
