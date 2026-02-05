@@ -10,5 +10,5 @@ Table of Contents
 
 # Books
 - Functional magnetic resonance imaging: An introduction to methods
-Jezzard P., Matthews PM., Smith SM.
+Jezzard P., Matthews PM., Smith SM. [Books](https://academic.oup.com/book/52995?login=true)
 
