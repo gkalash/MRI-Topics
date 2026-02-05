@@ -10,7 +10,7 @@ Table of Contents
 - [Books](#books)
 
 # Sites
-- Les fondamentaux – Chapitre 8 – Imagerie par résonance magnétique, T. Tourdias et V. Lebon [Site](https://www.cnp-mn.fr/les-fondamentaux-chapitre-8-imagerie-par-resonance-magnetique/)
+- Les fondamentaux – Chapitre 8 – Imagerie par résonance magnétique, T. Tourdias et V. Lebon. [Site](https://www.cnp-mn.fr/les-fondamentaux-chapitre-8-imagerie-par-resonance-magnetique/)
 
 # Books
 - Functional magnetic resonance imaging: An introduction to methods
